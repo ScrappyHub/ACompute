@@ -1,0 +1,21 @@
+{
+  "project_id": "acompute",
+  "canonical_name": "acompute",
+  "ecosystem": {
+    "registry_schema": "constellation.service.registry.v1",
+    "service_id": "acompute",
+    "ecosystem_family": "core",
+    "ecosystem_families": [
+      "core"
+    ],
+    "layer": "development.logic-simulation",
+    "role": "Logic-computation and circuit-learning instrument for designing, simulating, inspecting, and teaching digital systems.",
+    "standalone_first": true,
+    "upstream_services": [],
+    "downstream_users": [],
+    "contract_families": [],
+    "service_map_path": "C:\\dev\\Constellation\\ecosystem\\SERVICE_MAP.md",
+    "registry_path": "C:\\dev\\Constellation\\registry\\services.json",
+    "integration_doc_path": "docs/canonical/ECOSYSTEM_INTEGRATION.md"
+  }
+}
